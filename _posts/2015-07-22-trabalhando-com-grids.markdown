@@ -42,7 +42,7 @@ Olá pessoal, queremos agradecer novamente a presença de todos e pela ótima di
 
 >"A escolha da grid depende da quantidade de informação"
 
->"Adaptar a um grid em um layout, é um grande problema"
+>"Adaptar uma grid em um layout é um grande problema"
 
 >"Começar o mobile com 4 colunas"
 
