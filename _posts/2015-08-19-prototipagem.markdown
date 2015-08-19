@@ -13,7 +13,7 @@ Olá pessoal, queremos agradecer novamente a presença de todos e pela ótima di
 
 **Qual diferença entre prototipagem de alta fidelidade e de baixa fidelidade?**
 
-Prototipagem de alta fidelidade deve entregar ou expressar as funcionalidades propostas, pode ser bonito ou feito. Prototipagem de baixa fidelidade é apenas um rabisco
+Prototipagem de alta fidelidade deve entregar ou expressar as funcionalidades propostas, pode ser bonito ou feio. Prototipagem de baixa fidelidade é apenas um rabisco
 
 **Qual a melhor ferramenta para prototipar?**
 
