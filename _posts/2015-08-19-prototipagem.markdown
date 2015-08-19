@@ -49,6 +49,10 @@ Depende muito do proposito do protótipo, existem varias ferramentas no mercado,
 * [http://railsgirls.com/saopaulo2015](http://railsgirls.com/saopaulo2015)
 * [http://devinsantos.com.br/](http://devinsantos.com.br/)
 
-## zueraneverends
+## IDEO Shopping Cart
 
 [https://www.youtube.com/watch?v=M66ZU2PCIcM](https://www.youtube.com/watch?v=M66ZU2PCIcM)
+
+## zueraneverends
+
+[https://www.youtube.com/watch?v=dYBjVTMUQY0](https://www.youtube.com/watch?v=dYBjVTMUQY0)
