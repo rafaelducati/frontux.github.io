@@ -38,11 +38,14 @@ Depende muito do proposito do protótipo, existem varias ferramentas no mercado,
 * [http://arquiteturadeinformacao.com/recursos/ferramentas/uma-nova-onda-de-ferramentas-de-wireframing-e-prototipagem/](http://arquiteturadeinformacao.com/recursos/ferramentas/uma-nova-onda-de-ferramentas-de-wireframing-e-prototipagem/)
 * [http://arquiteturadeinformacao.com/mobile/criando-prototipos-para-a-multiplos-dispositivos/](http://arquiteturadeinformacao.com/mobile/criando-prototipos-para-a-multiplos-dispositivos/)
 * [http://arquiteturadeinformacao.com/user-experience/gestao-de-times-de-prototipagem-em-agencias-de-publicidade-digital/](http://arquiteturadeinformacao.com/user-experience/gestao-de-times-de-prototipagem-em-agencias-de-publicidade-digital/)
+* [https://medium.com/@joulee](https://medium.com/@joulee)
 
 
 ## Livros
 
-[http://www.uxpin.com/guide-to-prototyping.html](http://www.uxpin.com/guide-to-prototyping.html)
+* [http://www.uxpin.com/guide-to-prototyping.html](http://www.uxpin.com/guide-to-prototyping.html)
+* [Design Thinking/Change by Design](http://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089/ref=la_B001KHDL26_1_1?s=books&ie=UTF8&qid=1440016546&sr=1-1)
+* [Lean Ux](http://shop.oreilly.com/product/0636920021827.do)
 
 ## Eventos
 
