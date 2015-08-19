@@ -33,23 +33,22 @@ Depende muito do proposito do protótipo, existem varias ferramentas no mercado,
 * [http://www.gamasutra.com/](http://www.gamasutra.com/)
 * [http://framerjs.com/](http://framerjs.com/)
 
-Artigos
+## Artigos
+
 * [http://arquiteturadeinformacao.com/recursos/ferramentas/uma-nova-onda-de-ferramentas-de-wireframing-e-prototipagem/](http://arquiteturadeinformacao.com/recursos/ferramentas/uma-nova-onda-de-ferramentas-de-wireframing-e-prototipagem/)
-
 * [http://arquiteturadeinformacao.com/mobile/criando-prototipos-para-a-multiplos-dispositivos/](http://arquiteturadeinformacao.com/mobile/criando-prototipos-para-a-multiplos-dispositivos/)
-
 * [http://arquiteturadeinformacao.com/user-experience/gestao-de-times-de-prototipagem-em-agencias-de-publicidade-digital/](http://arquiteturadeinformacao.com/user-experience/gestao-de-times-de-prototipagem-em-agencias-de-publicidade-digital/)
 
 
-Livros
+## Livros
+
 [http://www.uxpin.com/guide-to-prototyping.html](http://www.uxpin.com/guide-to-prototyping.html)
 
-Eventos
+## Eventos
 
 * [http://railsgirls.com/saopaulo2015](http://railsgirls.com/saopaulo2015)
-
 * [http://devinsantos.com.br/](http://devinsantos.com.br/)
 
-#zueraneverends
+## zueraneverends
 
 [https://www.youtube.com/watch?v=M66ZU2PCIcM](https://www.youtube.com/watch?v=M66ZU2PCIcM)
