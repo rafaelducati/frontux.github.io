@@ -1,16 +1,281 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[FrontUX]]></title>
   <link href="http://frontux.github.io/atom.xml" rel="self"/>
   <link href="http://frontux.github.io/"/>
-  <updated>2015-09-13T18:01:22-03:00</updated>
+  <updated>2015-09-13T20:01:22-03:00</updated>
   <id>http://frontux.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Guilherme Moura Nascimento]]></name>
+    <email><![CDATA[gmoura@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup #3]]></title>
+    <link href="http://frontux.github.io/prototipagem"/>
+    <updated>2015-08-19T09:03:00-03:00</updated>
+    <id>http://frontux.github.io/prototipagem</id>
+    <content type="html"><![CDATA[<p>Olá pessoal, queremos agradecer novamente a presença de todos e pela ótima discussão que rolou. Nesse post tentaremos colocar tudo que foi discutido, caso falte alguma coisa, adicione um comentário ao final da página para completarmos aqui.</p>
+
+<h2 id="notas">Notas</h2>
+
+<p><strong>Qual diferença entre prototipagem de alta fidelidade e de baixa fidelidade?</strong></p>
+
+<p>Prototipagem de alta fidelidade deve entregar ou expressar as funcionalidades propostas, pode ser bonito ou feio. Prototipagem de baixa fidelidade é apenas um rabisco</p>
+
+<p><strong>Qual a melhor ferramenta para prototipar?</strong></p>
+
+<p>Depende muito do proposito do protótipo, existem varias ferramentas no mercado, cada uma se adequa melhor a cada caso. Segue um tabela bem completa de ferramentas e seus prós e contras, <a href="http://www.cooper.com/prototyping-tools">link aqui</a>.</p>
+
+<h2 id="ferramentas">Ferramentas</h2>
+
+<ul>
+<li><a href="http://www.cooper.com/prototyping-tools">http://www.cooper.com/prototyping-tools</a></li>
+<li><a href="https://facebook.github.io/origami/">https://facebook.github.io/origami/</a></li>
+<li><a href="https://vimeo.com/85578380">https://vimeo.com/85578380</a></li>
+<li><a href="https://marvelapp.com/">https://marvelapp.com/</a></li>
+<li><a href="https://atomic.io/">https://atomic.io/</a></li>
+<li><a href="http://www.invisionapp.com/">http://www.invisionapp.com/</a></li>
+<li><a href="http://www.axure.com/">http://www.axure.com/</a></li>
+<li><a href="https://creative.adobe.com/products/assets">https://creative.adobe.com/products/assets</a></li>
+<li><a href="http://www.gamasutra.com/">http://www.gamasutra.com/</a></li>
+<li><a href="http://framerjs.com/">http://framerjs.com/</a></li>
+</ul>
+
+<h2 id="artigos">Artigos</h2>
+
+<ul>
+<li><a href="http://arquiteturadeinformacao.com/recursos/ferramentas/uma-nova-onda-de-ferramentas-de-wireframing-e-prototipagem/">http://arquiteturadeinformacao.com/recursos/ferramentas/uma-nova-onda-de-ferramentas-de-wireframing-e-prototipagem/</a></li>
+<li><a href="http://arquiteturadeinformacao.com/mobile/criando-prototipos-para-a-multiplos-dispositivos/">http://arquiteturadeinformacao.com/mobile/criando-prototipos-para-a-multiplos-dispositivos/</a></li>
+<li><a href="http://arquiteturadeinformacao.com/user-experience/gestao-de-times-de-prototipagem-em-agencias-de-publicidade-digital/">http://arquiteturadeinformacao.com/user-experience/gestao-de-times-de-prototipagem-em-agencias-de-publicidade-digital/</a></li>
+<li><a href="https://medium.com/@joulee">https://medium.com/@joulee</a></li>
+</ul>
+
+<h2 id="livros">Livros</h2>
+
+<ul>
+<li><a href="http://www.uxpin.com/guide-to-prototyping.html">http://www.uxpin.com/guide-to-prototyping.html</a></li>
+<li><a href="http://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089/ref=la_B001KHDL26_1_1?s=books&amp;ie=UTF8&amp;qid=1440016546&amp;sr=1-1">Design Thinking/Change by Design</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920021827.do">Lean Ux</a></li>
+</ul>
+
+<h2 id="eventos">Eventos</h2>
+
+<ul>
+<li><a href="http://railsgirls.com/saopaulo2015">http://railsgirls.com/saopaulo2015</a></li>
+<li><a href="http://devinsantos.com.br/">http://devinsantos.com.br/</a></li>
+</ul>
+
+<h2 id="ideo-shopping-cart">IDEO Shopping Cart</h2>
+
+<p><a href="https://www.youtube.com/watch?v=M66ZU2PCIcM">https://www.youtube.com/watch?v=M66ZU2PCIcM</a></p>
+
+<h2 id="zueraneverends">zueraneverends</h2>
+
+<p><a href="https://www.youtube.com/watch?v=dYBjVTMUQY0">https://www.youtube.com/watch?v=dYBjVTMUQY0</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup #2]]></title>
+    <link href="http://frontux.github.io/trabalhando-com-grids"/>
+    <updated>2015-06-19T12:03:00-03:00</updated>
+    <id>http://frontux.github.io/trabalhando-com-grids</id>
+    <content type="html"><![CDATA[<p>Olá pessoal, queremos agradecer novamente a presença de todos e pela ótima discussão que rolou. Nesse post tentaremos colocar tudo que foi discutido, caso falte alguma coisa, adicione um comentário ao final da página para completarmos aqui.</p>
+
+<h4 id="posts-legais-sobre-grid">Posts legais sobre Grid</h4>
+
+<ul>
+<li><a href="http://arquiteturadeinformacao.com/design-de-interacao/guia-completo-sobre-grids-para-design-responsivo/">http://arquiteturadeinformacao.com/design-de-interacao/guia-completo-sobre-grids-para-design-responsivo/</a></li>
+<li><a href="http://arquiteturadeinformacao.com/design-de-interacao/9-principios-basicos-de-design-responsivos-em-gifs/">http://arquiteturadeinformacao.com/design-de-interacao/9-principios-basicos-de-design-responsivos-em-gifs/</a></li>
+<li><a href="http://arquiteturadeinformacao.com/design-de-interacao/9-principios-basicos-de-design-responsivos-em-gifs/">http://tableless.com.br/grid-simples-com-sass/</a></li>
+</ul>
+
+<h4 id="desenhando-com-dados-reais-direto-do-back-end">Desenhando com dados reais, direto do back-end</h4>
+
+<ul>
+<li><a href="http://arquiteturadeinformacao.com/design-de-interacao/9-principios-basicos-de-design-responsivos-em-gifs/">http://arquiteturadeinformacao.com/user-experience/desenhando-com-dados-reais-direto-do-back-end/</a></li>
+</ul>
+
+<p><strong>Artigo Original</strong></p>
+
+<ul>
+<li><a href="https://medium.com/design-at-depop/designing-with-data-7f6bcd907f0a">https://medium.com/design-at-depop/designing-with-data-7f6bcd907f0a</a></li>
+</ul>
+
+<p><strong>A ferramenta: Sketch Data Populator</strong></p>
+
+<ul>
+<li><a href="https://github.com/preciousforever/sketch-data-populator">https://github.com/preciousforever/sketch-data-populator</a></li>
+</ul>
+
+<p><strong>Demo do Sketch Data Populator</strong></p>
+
+<ul>
+<li><a href="https://vimeo.com/131896485">https://vimeo.com/131896485</a></li>
+</ul>
+
+<h4 id="grid-system">Grid system</h4>
+
+<ul>
+<li><a href="http://jeet.gs/">http://jeet.gs/</a></li>
+<li><a href="http://usablica.github.io/front-end-frameworks/compare.html">http://usablica.github.io/front-end-frameworks/compare.html</a></li>
+<li><a href="http://guideguide.me/">http://guideguide.me/</a></li>
+<li><a href="http://getbootstrap.com/examples/grid/">http://getbootstrap.com/examples/grid/</a></li>
+<li><a href="http://foundation.zurb.com/docs/components/grid.html">http://foundation.zurb.com/docs/components/grid.html</a></li>
+</ul>
+
+<h4 id="algumas-anota��es">Algumas anotações</h4>
+
+<blockquote>
+<p>&ldquo;A escolha da grid depende da quantidade de informação&rdquo;</p>
+
+<p>&ldquo;Adaptar uma grid em um layout é um grande problema&rdquo;</p>
+
+<p>&ldquo;Começar o mobile com 4 colunas&rdquo;</p>
+
+<p>&ldquo;Utilizar grids no wireframe&rdquo;</p>
+
+<p>&ldquo;Engenharia reversa para estudos&rdquo;</p>
+
+<p>&ldquo;Mesmo com elementos tortos teremos elementos alinhados a grid&rdquo;</p>
+</blockquote>
+
+<h4 id="styleguide">Styleguide</h4>
+
+<ul>
+<li><a href="http://slides.com/gmoura/documentando-seu-css#/">http://slides.com/gmoura/documentando-seu-css#/</a></li>
+<li><a href="http://trulia.github.io/hologram/">http://trulia.github.io/hologram/</a></li>
+<li><a href="https://github.com/styledown/styledown">https://github.com/styledown/styledown</a></li>
+</ul>
+
+<h4 id="media-queries">Media queries</h4>
+
+<ul>
+<li><a href="http://slides.com/mrs_x/media_queries#/">http://slides.com/mrs<em>x/media</em>queries#/</a></li>
+</ul>
+
+<h4 id="cases">Cases</h4>
+
+<ul>
+<li><a href="http://www.mirumagency.com/">http://www.mirumagency.com/</a></li>
+</ul>
+
+<h4 id="livro-grid-constru��o-e-desconstru��o">Livro - Grid. Construção e Desconstrução</h4>
+
+<ul>
+<li><a href="http://www.amazon.com.br/Grid-Constru%C3%A7%C3%A3o-Desconstru%C3%A7%C3%A3o-Timothy-Samara/dp/8575036297/ref=sr_1_1?ie=UTF8&amp;qid=1437520696&amp;sr=8-1&amp;keywords=grid%20constru%C3%A7%C3%A3o%20e%20desconstru%C3%A7%C3%A3o">Grid. Construção e Desconstrução</a></li>
+</ul>
+
+<h4 id="links-legais">Links legais</h4>
+
+<ul>
+<li><a href="http://blog.concretesolutions.com.br/">http://blog.concretesolutions.com.br/</a></li>
+<li><a href="http://altconf.com/">http://altconf.com/</a></li>
+<li><a href="http://2015.blendconf.com/">http://2015.blendconf.com/</a></li>
+<li><a href="http://aneventapart.com/">http://aneventapart.com/</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Microsoft_Blend">https://en.wikipedia.org/wiki/Microsoft_Blend</a></li>
+</ul>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup #1]]></title>
+    <link href="http://frontux.github.io/primeiro-meetup"/>
+    <updated>2015-06-19T12:03:00-03:00</updated>
+    <id>http://frontux.github.io/primeiro-meetup</id>
+    <content type="html"><![CDATA[<p>Olá pessoal, queremos agradecer novamente a presença de todos e pela ótima discussão que rolou. Nesse post tentaremos colocar tudo que foi discutido, caso falte alguma coisa, adicione um comentário ao final da página para completarmos aqui.</p>
+
+<h4 id="alguns-sites-para-quem-est�-afim-de-aprender-git">Alguns sites para quem está afim de aprender git:</h4>
+
+<ul>
+<li><a href="https://git-scm.com/book/pt-br/v1">https://git-scm.com/book/pt-br/v1</a></li>
+<li><a href="http://rogerdudler.github.io/git-guide/index.pt_BR.html">http://rogerdudler.github.io/git-guide/index.pt_BR.html</a></li>
+<li><a href="http://www.codecademy.com/">http://www.codecademy.com/</a></li>
+<li><a href="https://www.codeschool.com/paths/git">https://www.codeschool.com/paths/git</a></li>
+<li><a href="http://blog.teamtreehouse.com/git-for-designers-part-1">http://blog.teamtreehouse.com/git-for-designers-part-1</a></li>
+</ul>
+
+<h4 id="git-over-9000">GIT over 9000</h4>
+
+<ul>
+<li><a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/">https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/</a></li>
+</ul>
+
+<h4 id="git-large-files">Git large files:</h4>
+
+<ul>
+<li><a href="https://help.github.com/articles/working-with-large-files/">https://help.github.com/articles/working-with-large-files/</a></li>
+</ul>
+
+<h4 id="alternativa-para-o-github">Alternativa para o Github:</h4>
+
+<ul>
+<li><a href="https://bitbucket.org/">https://bitbucket.org/</a></li>
+</ul>
+
+<h4 id="softwares-com-interfaces-amig�veis-para-trabalhar-com-versionamento">Softwares com interfaces amigáveis para trabalhar com versionamento:</h4>
+
+<ul>
+<li><a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a></li>
+<li><a href="https://www.sourcetreeapp.com/">https://www.sourcetreeapp.com/</a></li>
+<li><a href="http://www.gemba.io/">http://www.gemba.io/</a></li>
+<li><a href="https://www.pixelapse.com/">https://www.pixelapse.com/</a></li>
+</ul>
+
+<h4 id="git-para-designers">Git para designers:</h4>
+
+<ul>
+<li><a href="http://blog.invisionapp.com/design-file-syncing/">http://blog.invisionapp.com/design-file-syncing/</a></li>
+<li><a href="http://www.invisionapp.com/new-features/23/design-file-syncing-(psd-ai-sketch)-version-control-and-more">http://www.invisionapp.com/new-features/23/design-file-syncing-(psd-ai-sketch)-version-control-and-more</a></li>
+</ul>
+
+<h4 id="diff-de-imagem-e-psd-no-git">Diff de imagem e PSD no git:</h4>
+
+<ul>
+<li><a href="https://github.com/blog/1845-psd-viewing-diffing">https://github.com/blog/1845-psd-viewing-diffing</a></li>
+<li><a href="https://github.com/blog/817-behold-image-view-modes">https://github.com/blog/817-behold-image-view-modes</a></li>
+<li><a href="https://github.com/cameronmcefee/Image-Diff-View-Modes/commit/8e95f70c9c47168305970e91021072673d7cdad8">https://github.com/cameronmcefee/Image-Diff-View-Modes/commit/8e95f70c9c47168305970e91021072673d7cdad8</a></li>
+</ul>
+
+<h4 id="usando-time-machine-para-fazer-backup-dos-arquivos-no-mac">Usando Time Machine para fazer backup dos arquivos no Mac:</h4>
+
+<ul>
+<li><a href="https://support.apple.com/pt-br/HT201250">https://support.apple.com/pt-br/HT201250</a></li>
+</ul>
+
+<h4 id="porque-o-facebook-usa-mercurial">Porque o Facebook usa Mercurial:</h4>
+
+<ul>
+<li><a href="https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook/">https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook/</a></li>
+</ul>
+
+<h4 id="git-vs-mercurial">GIT vs Mercurial</h4>
+
+<ul>
+<li><a href="http://blogs.atlassian.com/2012/03/git-vs-mercurial-why-git/">http://blogs.atlassian.com/2012/03/git-vs-mercurial-why-git/</a></li>
+</ul>
+
+<h4 id="software-para-design">Software para  Design:</h4>
+
+<ul>
+<li><a href="http://bohemiancoding.com/sketch/">http://bohemiancoding.com/sketch/</a></li>
+<li><a href="https://affinity.serif.com/en-us/">https://affinity.serif.com/en-us/</a></li>
+<li><a href="http://projectparfait.adobe.com/">http://projectparfait.adobe.com/</a></li>
+</ul>
+
+<h4 id="outro-links">Outro Links:</h4>
+
+<ul>
+<li><a href="https://www.atlassian.com/">https://www.atlassian.com/</a></li>
+<li><a href="http://github.com">http://github.com</a></li>
+</ul>
+
+<p>Valeu galera, até o próximo meetup.</p>
+]]></content>
+  </entry>
   
 </feed>
