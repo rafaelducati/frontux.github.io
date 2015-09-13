@@ -3,6 +3,7 @@
 # ----------------------- #
 
 url: http://frontux.github.io
+baseurl: "/"
 title: FrontUX
 subtitle: FrontUX é um Meet Up para reunir designers e desenvolvedores para discutir como melhorar fluxos de trabalho em ambas áreas.
 author: Guilherme Moura Nascimento
