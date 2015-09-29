@@ -4,7 +4,7 @@
   <title><![CDATA[FrontUX]]></title>
   <link href="http://frontux.github.io/atom.xml" rel="self"/>
   <link href="http://frontux.github.io/"/>
-  <updated>2015-09-13T20:20:03-03:00</updated>
+  <updated>2015-09-28T22:48:19-03:00</updated>
   <id>http://frontux.github.io/</id>
   <author>
     <name><![CDATA[Guilherme Moura Nascimento]]></name>
@@ -12,6 +12,80 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup #4]]></title>
+    <link href="http://frontux.github.io/natural-user-interface"/>
+    <updated>2015-09-28T09:03:00-03:00</updated>
+    <id>http://frontux.github.io/natural-user-interface</id>
+    <content type="html"><![CDATA[<p>Olá pessoal, queremos agradecer novamente a presença de todos e pela ótima discussão que rolou. Nesse post tentaremos colocar tudo que foi discutido, caso falte alguma coisa, adicione um comentário ao final da página para completarmos aqui.</p>
+
+<h2 id="palestrantes">Palestrantes</h2>
+
+<ul>
+<li><a href="https://twitter.com/eduagni">Edu Agni - Consultor de Experiência do Usuário</a></li>
+<li><a href="https://twitter.com/sr_gustavo_">Gustavo Cordeiro - Front-end Developer</a></li>
+</ul>
+
+<h2 id="defini��o-de-nui">Definição de NUI</h2>
+
+<ul>
+<li><a href="http://whatis.techtarget.com/definition/natural-user-interface-NUI">http://whatis.techtarget.com/definition/natural-user-interface-NUI</a></li>
+</ul>
+
+<h2 id="posts">Posts</h2>
+
+<ul>
+<li><a href="http://www.uxdesign.blog.br/mobile/entendendo-natural-user-interface/">http://www.uxdesign.blog.br/mobile/entendendo-natural-user-interface/</a></li>
+<li><a href="http://www.uxdesign.blog.br/design-de-interfaces/natural-user-interface/">http://www.uxdesign.blog.br/design-de-interfaces/natural-user-interface/</a></li>
+</ul>
+
+<h2 id="v�deo">Vídeo</h2>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=XGV55AHTDa4&amp;feature=youtu.be&amp;t=22m">https://www.youtube.com/watch?v=XGV55AHTDa4&amp;feature=youtu.be&amp;t=22m</a></li>
+</ul>
+
+<h2 id="speech-recognition">Speech recognition</h2>
+
+<ul>
+<li><a href="https://www.talater.com/annyang/">https://www.talater.com/annyang/</a></li>
+</ul>
+
+<h2 id="gesture-recognition">Gesture recognition</h2>
+
+<ul>
+<li><a href="http://danielrapp.github.io/doppler/">http://danielrapp.github.io/doppler/</a></li>
+</ul>
+
+<h2 id="speech-synthesis">Speech synthesis</h2>
+
+<ul>
+<li><a href="http://codepen.io/matt-west/full/wGzuJ">http://codepen.io/matt-west/full/wGzuJ</a></li>
+<li><a href="https://developers.google.com/web/updates/2014/01/Web-apps-that-talk---Introduction-to-the-Speech-Synthesis-API">https://developers.google.com/web/updates/2014/01/Web-apps-that-talk&mdash;Introduction-to-the-Speech-Synthesis-API</a></li>
+</ul>
+
+<h2 id="controle-de-luminosidade-e-cores-de-tela">Controle de luminosidade e cores de tela</h2>
+
+<ul>
+<li><a href="https://justgetflux.com/">https://justgetflux.com/</a></li>
+</ul>
+
+<h2 id="accessible-rich-internet-applications">Accessible Rich Internet Applications</h2>
+
+<ul>
+<li><a href="http://www.w3.org/TR/wai-aria/">http://www.w3.org/TR/wai-aria/</a></li>
+</ul>
+
+<h2 id="outros-links">Outros links</h2>
+
+<ul>
+<li><a href="http://giphy.com/">Gifs</a></li>
+<li><a href="http://setemasters.imasters.com.br/">7 masters</a></li>
+<li><a href="http://www.gamasutra.com/">Gamasutra - Sobre games</a></li>
+</ul>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup #3]]></title>
