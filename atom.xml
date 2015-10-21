@@ -4,7 +4,7 @@
   <title><![CDATA[FrontUX]]></title>
   <link href="http://frontux.github.io/atom.xml" rel="self"/>
   <link href="http://frontux.github.io/"/>
-  <updated>2015-09-28T22:48:19-03:00</updated>
+  <updated>2015-10-21T20:56:28-02:00</updated>
   <id>http://frontux.github.io/</id>
   <author>
     <name><![CDATA[Guilherme Moura Nascimento]]></name>
@@ -12,6 +12,81 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup #5]]></title>
+    <link href="http://frontux.github.io/data-design"/>
+    <updated>2015-10-21T10:03:00-02:00</updated>
+    <id>http://frontux.github.io/data-design</id>
+    <content type="html"><![CDATA[<p>Olá pessoal, queremos agradecer novamente a presença de todos e pela ótima discussão que rolou. Nesse post tentaremos colocar tudo que foi discutido, caso falte alguma coisa, adicione um comentário ao final da página para completarmos aqui.</p>
+
+<h2 id="talks">Talks</h2>
+
+<ul>
+<li><a href="https://www.facebook.com/estudiomotim">Johnny Dutra</a> - <a href="http://bit.ly/1kn6isa">http://bit.ly/1kn6isa</a></li>
+<li><a href="http://www.luizrodrigues.com/"> Luiz Rodrigues</a> - <a href="http://bit.ly/1NSGfp5">http://bit.ly/1NSGfp5</a></li>
+</ul>
+
+<h2 id="links">Links</h2>
+
+<p><a href="http://arqfuturo.com.br/">http://arqfuturo.com.br/</a>
+<a href="http://population.io/">http://population.io/</a>
+<a href="https://earthdata.nasa.gov/">https://earthdata.nasa.gov/</a>
+<a href="http://moebio.com/">http://moebio.com/</a>
+<a href="http://www.data-visualization.org/">http://www.data-visualization.org/</a>
+<a href="http://p5js.org/">http://p5js.org/</a>
+<a href="http://www.ondefuiroubado.com.br/">http://www.ondefuiroubado.com.br/</a>
+<a href="https://www.python.org/">https://www.python.org/</a></p>
+
+<h2 id="trabalhos-da-scup">Trabalhos da Scup</h2>
+
+<ul>
+<li><a href="http://scupideas.scup.com/ideas/eleicoes-2014/">http://scupideas.scup.com/ideas/eleicoes-2014/</a></li>
+<li><a href="http://scupideas.scup.com/ideas/horarios-nobres-redes-sociais">http://scupideas.scup.com/ideas/horarios-nobres-redes-sociais</a></li>
+</ul>
+
+<h2 id="cursos-sobre-big-data-machine-learning-e-redes-neurais">Cursos sobre big data, machine learning e redes neurais</h2>
+
+<ul>
+<li><a href="https://infoactive.co/data-design">https://infoactive.co/data-design</a></li>
+<li><a href="https://www.coursera.org/learn/machine-learning">https://www.coursera.org/learn/machine-learning</a></li>
+<li><a href="https://www.coursera.org/course/neuralnets">https://www.coursera.org/course/neuralnets</a></li>
+<li><a href="https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x">https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x</a></li>
+<li><a href="https://www.udacity.com/course/data-visualization-and-d3js--ud507">https://www.udacity.com/course/data-visualization-and-d3js&ndash;ud507</a></li>
+<li><a href="https://www.udacity.com/course/real-time-analytics-with-apache-storm--ud381">https://www.udacity.com/course/real-time-analytics-with-apache-storm&ndash;ud381</a></li>
+<li><a href="https://www.udacity.com/course/intro-to-data-science--ud359">https://www.udacity.com/course/intro-to-data-science&ndash;ud359</a></li>
+</ul>
+
+<h2 id="material-para-leitura">Material para leitura</h2>
+
+<ul>
+<li><a href="http://www.smashingmagazine.com/2014/10/css-only-solution-for-ui-tracking/">UI Traking</a></li>
+<li><a href="http://ibm.co/1QUSQ94">http://ibm.co/1QUSQ94</a></li>
+<li><a href="http://bit.ly/1LoyUKi">http://bit.ly/1LoyUKi</a></li>
+</ul>
+
+<h2 id="videos">Videos</h2>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=jCPMnbilPDs">Mobile App Metrics that Matter</a></li>
+<li><a href="https://www.youtube.com/watch?v=VexLSuOvb0w">Immutable Data Science with Datomic, Spark and Kafka</a></li>
+</ul>
+
+<h2 id="autores">Autores</h2>
+
+<ul>
+<li><a href="http://www.edwardtufte.com/tufte/">Edward Tufte</a></li>
+</ul>
+
+<h2 id="outros-links">Outros links</h2>
+
+<ul>
+<li><a href="http://www.ibm.com/big-data/us/en/">http://www.ibm.com/big-data/us/en/</a></li>
+<li><a href="http://www.meetup.com/pt/Quebrando-a-cabeca-no-Kaggle/">Aprenda machine learning na practica!</a></li>
+<li><a href="http://dataveyes.com/#!/en">Dataveyes</a></li>
+</ul>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup #4]]></title>
